@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RLeeNvomk7is3XBPeH-xTZ-967Qdic0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
