@@ -2,7 +2,14 @@
 layout: default
 ---
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RLeeNvomk7is3XBPeH-xTZ-967Qdic0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<style>
+  iframe {
+    width: 100%; /* Full width */
+    height: 100vh; /* Full height of the viewport */
+    border: none; /* Optional: remove border */
+  }
+</style>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RLeeNvomk7is3XBPeH-xTZ-967Qdic0&ehbc=2E312F&noprof=1"></iframe>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
